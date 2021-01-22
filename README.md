@@ -20,7 +20,8 @@ It is not difficult to find other dog breed pairs with minimal inter-class varia
 The Model acheived a Test accuracy of 19% when Trained Using a Convolutional Neural Network From Scratch , Using Data Augmentation and Batch Normalization Techniques with Much Deeper Architrecture Can help to improve the model performance
 
 The Model acheived a Test Accuracy of 78% when Trained using a Pre-Trained VGG16 Model for 30 epochs, The Performance of the model can be improved using othet pre-trained models such as RESNET and Inception Networks.
-C:/Users/aakom/Downloads/sample_dog_output.png
+
+![plot](C:/Users/aakom/Downloads/sample_dog_output.png)
 
 ### Softwares and Libraries
 [Python 3](https://www.python.org/downloads/)
