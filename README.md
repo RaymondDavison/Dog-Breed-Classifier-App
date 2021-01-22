@@ -7,4 +7,10 @@ The Model Achieved a Test Accuracy of 76% by Training with a Pre-Trained VGG16 M
 
 Along with exploring state-of-the-art CNN models for classification, This Project helped me to make important design decisions about the user experience for the app.
 
-Datasets
+### Datasets
+
+[Dogs Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) Unzip the folder and place it in this project’s home directory, at the location /dog_images.
+
+[Humans Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) Unzip the folder and place it in this project’s home directory, at the location /lfw.
+
+The task of assigning breed to dogs from images is considered exceptionally challenging. To see why, consider that even a human would have trouble distinguishing between a Brittany and a Welsh Springer Spaniel.
