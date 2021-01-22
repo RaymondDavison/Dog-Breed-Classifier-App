@@ -14,3 +14,9 @@ Along with exploring state-of-the-art CNN models for classification, This Projec
 [Humans Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) Unzip the folder and place it in this project’s home directory, at the location /lfw.
 
 The task of assigning breed to dogs from images is considered exceptionally challenging. To see why, consider that even a human would have trouble distinguishing between a Brittany and a Welsh Springer Spaniel.
+It is not difficult to find other dog breed pairs with minimal inter-class variation (for instance, Curly-Coated Retrievers and American Water Spaniels).Likewise, recall that labradors come in yellow, chocolate, and black. Your vision-based algorithm will have to conquer this high intra-class variation to determine how to classify all of these different shades as the same breed. The random chance presents an exceptionally low bar: setting aside the fact that the classes are slightly imabalanced, a random guess will provide a correct answer roughly 1 in 133 times, which corresponds to an accuracy of less than 1%.
+
+### Results
+The Model acheived a Test accuracy of 19% when Trained Using a Convolutional Neural Network From Scratch , Using Data Augmentation and Batch Normalization Techniques with Much Deeper Architrecture Can help to improve the model performance
+
+The Model acheived a Test Accuracy of 78% when Trained using a Pre-Trained VGG16 Model for 30 epochs, The Performance of the model can be improved using othet pre-trained models such as RESNET and Inception Networks.
