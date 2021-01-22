@@ -21,8 +21,7 @@ The Model acheived a Test accuracy of 19% when Trained Using a Convolutional Neu
 
 The Model acheived a Test Accuracy of 78% when Trained using a Pre-Trained VGG16 Model for 30 epochs, The Performance of the model can be improved using othet pre-trained models such as RESNET and Inception Networks.
 
-### ![alt text](http://url/to/img.png)Output #(C:\Users\aakom\Downloads)
-
+### ![alt text](C:/Users/aakom/Downloads/sample_dog_output.png)
 ### Softwares and Libraries
 [Python 3](https://www.python.org/downloads/)
 
